@@ -11,3 +11,5 @@ def pascal_triangle(n):
                 a[i].append(1)
 
     return a
+n = 5
+print(pascal_triangle(n))
